@@ -13,4 +13,4 @@ The present repository aims on appliyng the most used Machine Learning algorithm
  
  # Libraries Used
  
- All the libraries used on the scripts are on requirements[https://github.com/Andrercouto/UnsupervisedMachineLearning/blob/main/requirements.txt].
+ All the libraries used on the scripts are on (requirements)[https://github.com/Andrercouto/UnsupervisedMachineLearning/blob/main/requirements.txt].
